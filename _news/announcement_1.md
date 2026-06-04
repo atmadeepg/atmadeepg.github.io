@@ -1,8 +1,7 @@
 ---
----
 layout: post
-date: 2022-07-01
+date: 2026-01-15
 inline: true
 ---
 
-Joined IIIT Delhi as a Predoctoral Fellow, supported by the CDNM Fellowship, to investigate the use of social robots in the Global South.
+My paper on Indian Ethnographers and Responsible AI has been accepted at CHI'26
