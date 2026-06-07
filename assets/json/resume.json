@@ -55,6 +55,13 @@
   ],
   "work": [
     {
+      "name": "Ataraxia Research",
+      "position": "Co-founder and CEO",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "summary": "Building domain-specific harm taxonomies and preference alignment pipelines for regulated industries, with a focus on the Indian sociotechnical context."
+    },
+    {
       "name": "King's College London",
       "position": "Graduate Research Assistant",
       "startDate": "2025-05-01",
