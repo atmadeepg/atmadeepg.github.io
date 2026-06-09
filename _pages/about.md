@@ -6,7 +6,7 @@ subtitle: PhD Student, <a href="https://www.kcl.ac.uk/informatics">King's Colleg
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false
   more_info: >
     <p>Civic and Responsible AI Lab</p>
