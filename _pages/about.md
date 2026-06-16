@@ -29,5 +29,4 @@ I am a PhD student at King's College London, supervised by [Martim Brandão](htt
 My research is broadly about responsible AI for robotics and large language models in non-WEIRD and Global South contexts. I study how LLM-controlled robots and foundation models fail communities that are underrepresented in mainstream AI development. My current work includes benchmarking LLM-integrated robotic systems for adversarial robustness in India-specific risk scenarios, developing participatory harm taxonomies for foundation models deployed in the Indian sociotechnical context, and examining how LLMs reason about culturally situated ethical dilemmas.
 
 Prior to my PhD, I was a predoctoral research fellow at the Human Machine Interaction Lab at IIIT Delhi where I was advised by Dr. Jainendra Shukla and Dr. Ratan Suri and mentored by Dr. Ashwini B. 
-
-I have an active interest in cinematic and other audio visual representations of constructive horror, in particular bangla folklore horror. I am also keen about airplanes, especially landing approaches and CAT systems in Indian airports amid different climatic conditions. 
+ 
